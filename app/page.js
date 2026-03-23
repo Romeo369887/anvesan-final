@@ -14,7 +14,7 @@ export default function AnvesanWebsite() {
             <a href="#contact" className="hover:text-neutral-900">Contact</a>
           </nav>
           <a
-            href="https://x.com/romeo_fardeen"
+            href="https://x.com/anvesanorg"
             target="_blank"
             rel="noreferrer"
             aria-label="Anvesan on X"
@@ -132,7 +132,7 @@ export default function AnvesanWebsite() {
                   </p>
                 </div>
                 <a
-                  href="https://x.com/romeo_fardeen"
+                  href="https://x.com/anvesanorg"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mt-8 inline-flex items-center gap-3 rounded-2xl border border-neutral-900 px-5 py-3 text-sm font-medium text-neutral-900 transition hover:bg-neutral-900 hover:text-white w-fit"
