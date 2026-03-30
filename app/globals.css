@@ -18,6 +18,28 @@
     --foreground: #ededed;
   }
 }
+@keyframes anvesanTypeTechnical {
+  0% { width: 0ch; }
+  11% { width: 10ch; }
+  28% { width: 10ch; }
+  33% { width: 0ch; }
+  100% { width: 0ch; }
+}
+
+@keyframes anvesanTypeRegulatory {
+  0%, 33% { width: 0ch; }
+  44% { width: 11ch; }
+  61% { width: 11ch; }
+  66% { width: 0ch; }
+  100% { width: 0ch; }
+}
+
+@keyframes anvesanTypePolicy {
+  0%, 66% { width: 0ch; }
+  77% { width: 7ch; }
+  94% { width: 7ch; }
+  100% { width: 0ch; }
+}
 
 body {
   background: var(--background);
